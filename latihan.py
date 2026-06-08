@@ -10,3 +10,5 @@ elif jawaban >= 2:
     print("cukup")
 else:
     print("jelek")
+
+# Testing ada perubaham
